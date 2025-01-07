@@ -32,7 +32,7 @@ jobs:
 
       # Run the Node.js file
       - name: Run the Node.js script
-        run: node script.js
+        run: node App.js
 
       # Echo a message
       - name: Echo message
